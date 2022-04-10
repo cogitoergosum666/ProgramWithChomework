@@ -1,0 +1,10 @@
+﻿  lab3_fun.cpp
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_DataForFun.h(13,2): warning C4091: “extern ”: 没有声明变量时忽略“configinfo”的左侧
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(147,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(185,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(411,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(411,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(411,13): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(411,13): message : 此参数用作缓冲区大小
+C:\Users\ADM\Downloads\lab3 (1)\lab3\lab3\lab3_fun.cpp(525): warning C4715: “inputTwo”: 不是所有的控件路径都返回值
+  lab3.vcxproj -> C:\Users\ADM\Downloads\lab3 (1)\lab3\Debug\lab3.exe

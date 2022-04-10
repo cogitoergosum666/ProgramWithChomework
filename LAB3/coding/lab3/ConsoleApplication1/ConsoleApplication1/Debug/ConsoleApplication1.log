@@ -1,0 +1,8 @@
+﻿  lab3_fun.cpp
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_data.h(1,13): warning C4081: 应输入“newline”；找到“;”
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_fun.cpp(46,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_fun.cpp(248,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_fun.cpp(248,14): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_fun.cpp(248,14): message : 缺失的可变参数 2 为格式字符串“%s”所需
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\ConsoleApplication1\lab3_fun.cpp(248,14): message : 此参数用作缓冲区大小
+  ConsoleApplication1.vcxproj -> F:\大学常用\计算机科学\大一下学期程序分组训练\LAB3\coding\lab3\ConsoleApplication1\Debug\ConsoleApplication1.exe

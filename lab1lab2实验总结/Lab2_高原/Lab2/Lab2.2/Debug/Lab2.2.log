@@ -1,0 +1,10 @@
+﻿  Lab2.cpp
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(16,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(22,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(31,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(57,14): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(49,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(79,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(70): warning C4700: 使用了未初始化的局部变量“Len”
+C:\Users\muteman\source\repos\Lab2.2\Lab2.2\Lab2.cpp(102): warning C4700: 使用了未初始化的局部变量“Filename”
+  Lab2.2.vcxproj -> C:\Users\muteman\source\repos\Lab2.2\Debug\Lab2.2.exe

@@ -1,0 +1,29 @@
+﻿  lab4_fun.cpp
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_DataForFun.h(14,2): warning C4091: “extern ”: 没有声明变量时忽略“configinfo”的左侧
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_DataForFun.h(19,2): warning C4091: “extern ”: 没有声明变量时忽略“DataItem”的左侧
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(112,40): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(112,40): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(113,40): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(113,40): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(114,40): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(114,40): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(115,40): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(115,40): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(116,43): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(116,43): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(117,43): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(117,43): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(138,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(182,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(324,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(469,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(469,14): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(469,14): message : 缺失的可变参数 2 为格式字符串“%s”所需
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(469,14): message : 此参数用作缓冲区大小
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(518,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(518,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(518,13): message : 缺失的可变参数 2 为格式字符串“%s”所需
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(518,13): message : 此参数用作缓冲区大小
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(486,7): warning C4101: “input2”: 未引用的局部变量
+F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\lab3\lab4_fun.cpp(606): warning C4715: “inputTwo”: 不是所有的控件路径都返回值
+  lab3.vcxproj -> F:\大学常用\计算机科学\大一下学期程序分组训练\LAB4\coding\lab4\x64\Debug\lab3.exe
